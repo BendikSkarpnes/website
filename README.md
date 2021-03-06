@@ -1,6 +1,6 @@
 # DEMO
 ## Dashboard
-https://user-images.githubusercontent.com/42250582/110221828-aa45dc80-7ece-11eb-8a22-b2644dd34219.mp4
+![Dashboard video demo](https://user-images.githubusercontent.com/42250582/110221828-aa45dc80-7ece-11eb-8a22-b2644dd34219.mp4)
 
 ## Calendar
 https://user-images.githubusercontent.com/42250582/110221830-ae71fa00-7ece-11eb-810a-88ab0b57977d.mp4
