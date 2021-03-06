@@ -9,8 +9,8 @@
 
 ## Shopping list
 ![shopping list gif demo](https://user-images.githubusercontent.com/42250582/110222118-48867200-7ed0-11eb-9abd-cfe35f0d3137.gif)
-![shopping list video demo](https://user-images.githubusercontent.com/42250582/110221847-c6e21480-7ece-11eb-8438-dcb22efc3303.mp4)
+<!-- ![shopping list video demo](https://user-images.githubusercontent.com/42250582/110221847-c6e21480-7ece-11eb-8438-dcb22efc3303.mp4) -->
 
 ## Todo list
 ![todo list gif demo](https://user-images.githubusercontent.com/42250582/110222114-445a5480-7ed0-11eb-87fd-8d3eb75f5e5c.gif)
-![todo list video demo](https://user-images.githubusercontent.com/42250582/110221848-c8abd800-7ece-11eb-98cb-2d7d056d66f4.mp4)
+<!-- ![todo list video demo](https://user-images.githubusercontent.com/42250582/110221848-c8abd800-7ece-11eb-98cb-2d7d056d66f4.mp4) -->
